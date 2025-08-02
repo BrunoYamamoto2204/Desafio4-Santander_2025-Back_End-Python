@@ -1,38 +1,4 @@
 {
     "num": 4,
-    "contas": [
-        {
-            "numero": 1,
-            "cliente": {
-                "endereco": "1",
-                "cpf": "1",
-                "nome": "1",
-                "data_nascimento": "1"
-            },
-            "limite": 500,
-            "limite_saques": 3
-        },
-        {
-            "numero": 2,
-            "cliente": {
-                "endereco": "2",
-                "cpf": "2",
-                "nome": "2",
-                "data_nascimento": "2"
-            },
-            "limite": 500,
-            "limite_saques": 3
-        },
-        {
-            "numero": 3,
-            "cliente": {
-                "endereco": "1",
-                "cpf": "1",
-                "nome": "1",
-                "data_nascimento": "1"
-            },
-            "limite": 500,
-            "limite_saques": 3
-        }
-    ]
+    "contas": []
 }
