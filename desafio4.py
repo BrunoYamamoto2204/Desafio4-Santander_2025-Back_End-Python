@@ -497,6 +497,7 @@ def main():
                 )
                 for dados in dados_clientes
             ]
+            
     # Carregar Contas
     if not CAMINHO_CONTAS.exists():
         with open(CAMINHO_CONTAS, "w") as arquivo:
